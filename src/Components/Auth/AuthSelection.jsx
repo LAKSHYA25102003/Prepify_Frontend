@@ -86,6 +86,7 @@ const AuthSelection = (props) => {
                         <div className="p-6 space-y-3 md:space-y-2 sm:p-8">
                             <h1 className="text-xl text-center font-bold leading-tight tracking-tight text-gray-900 md:text-2xl dark:text-white font-inter">
                                 Welcome to {type} Page
+                                
                             </h1>
                             <h1 className="text-xl text-center font-bold leading-tight tracking-tight text-gray-900 md:text-2xl dark:text-white font-inter">
                                 Select A Role
